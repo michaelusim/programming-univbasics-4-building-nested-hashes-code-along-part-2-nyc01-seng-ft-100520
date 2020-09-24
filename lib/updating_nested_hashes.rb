@@ -53,6 +53,9 @@ def add_characters
          ]
       }
    }
+   
+  prince = { name: "Prince Escalus" }
+  apothecary = { name: "Apothecary" }
 
    # Write code below that does the following programmatically:
    #
